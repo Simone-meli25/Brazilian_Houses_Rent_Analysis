@@ -1,10 +1,4 @@
-Brazilian Houses Rent Analysis
 
-This repository contains the analysis and clustering of rental properties in Brazil, focusing on identifying the driving factors behind rent price variations and clustering houses based on their characteristics.
-Overview
-
-The project utilizes the Brazilian Houses dataset, comprising 10,692 observations and 12 variables. The variables include categorical and numerical features representing house characteristics and rent-related information.
-The primary objectives of the project are:
 
     Analyze factors influencing rent prices in Brazil.
     Cluster houses based on their characteristics for better market segmentation.
